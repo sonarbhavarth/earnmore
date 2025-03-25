@@ -14,10 +14,10 @@ npm install
 yarn install
 ```
 
-3. run your development server
+2. run your development server
 ```bash
 npm run dev
 # or
 yarn dev
 ```
-5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result
+3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result
