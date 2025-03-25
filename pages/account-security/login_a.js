@@ -90,7 +90,7 @@ const SignUp = () => {
                                     </div>
                                     <div>
                                     <h4 className={`${(freelancer == true) ? "text-[#e5ecea]" : "text-zinc-800"} font-semibold text-lg text-center`}>
-                                            I’m a freelancer, looking for work
+                                            I’m a freelaacer, looking for work
                                         </h4>
                                     </div>
                                 </div>
